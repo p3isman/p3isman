@@ -2,11 +2,14 @@
 
 - 📖 I'm a self-taught developer.
 - 🌱 I’m currently learning and doing mobile development.
-- 💻 I'm looking to land a job at the industry.
 - 👾 I like using and making FOSS.
+- 💻 I'm looking to land a job at the industry.
 - 📫 Contact me at [my email address](mailto:pedro_eisman@hotmail.com)
 
+My name is Pedro and I'm from Madrid (Spain).
 I used to work as a video-editor, but found a passion in making software.
+Everything I know is self-taught. I knew some basic programming before, but really started investing my time on it since 2020. I've done online courses, watched a lot of tutorials and found answers to my problems on websites like Stack Overflow and Medium.
+I like building new projects and facing new problems to solve.
 
 ## Tech used:
 I'm constantly learning new things, but here's some of the technologies I've used.
