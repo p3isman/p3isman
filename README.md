@@ -12,7 +12,7 @@ Everything I know is self-taught. I knew some basic programming before, but real
 I like building new projects and facing new problems to solve.
 
 ## Tech used:
-I'm constantly learning new things, but here's some of the technologies I've used.
+I'm constantly learning new things, but here are some of the technologies I've used.
 
 ### Mobile
 [![Dart](https://img.shields.io/badge/Dart-0083ff?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)](#)
