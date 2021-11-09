@@ -6,9 +6,9 @@
 - 💻 I'm looking to land a job at the industry.
 - 📫 Contact me at [my email address](mailto:pedro_eisman@hotmail.com)
 
-My name is Pedro and I'm from Madrid (Spain).
+Hi, my name is Pedro and I'm from Madrid (Spain).
 I'm a former video-editor that found a passion in software development.
-Everything I know is self-taught. I've done online courses, watched tutorials and found answers to my problems on websites like Stack Overflow and Medium. I also like to learn from looking at other people's repositories.
+Everything I know is self-taught. I've done online courses, watched tutorials and found answers to my problems on websites like Stack Overflow and Medium. I also like to learn by looking at other people's repositories.
 I like building new projects from scratch and also facing new problems to solve in existing projects.
 
 ## Tech used:
