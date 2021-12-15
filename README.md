@@ -1,18 +1,17 @@
 ## Welcome to my profile 👋🏻
-
-- 📖 I'm a self-taught developer.
-- 🌱 I’m currently learning and doing mobile development.
-- 👾 I like using and making FOSS.
-- 💻 I'm looking to land a job at the industry.
+I'm a:
+- 📖 Self-taught dev.
+- 🌱 Mobile and web developer.
+- 👾 FOSS advocate.
+- 💻 Currently looking for a job.
 - 📫 Contact me at [my email address](mailto:pedro_eisman@hotmail.com)
 
 Hi, my name is Pedro and I'm from Madrid (Spain).
-I'm a former video-editor that found a passion in software development.
-Everything I know is self-taught. I've done online courses, watched tutorials and found answers to my problems on websites like Stack Overflow and Medium. I also like to learn by looking at other people's repositories.
-I like building new projects from scratch and also facing new problems to solve in existing projects.
+I'm a former video-editor that went into the path of programming, since I have a passion for tech stuff and IT. Everything I learned is from online resources and looking at other people's repos.
+I like building new projects and also fixing problems on existing projects.
 
 ## Tech used:
-I'm constantly learning new things, but here are some of the technologies I've used.
+Some of the tech I've used:
 
 ### Mobile
 [![Dart](https://img.shields.io/badge/Dart-0083ff?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)](#)
