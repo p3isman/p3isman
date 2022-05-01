@@ -1,11 +1,10 @@
 ## Welcome to my profile 👋🏻
 I'm a:
 - 📖 Self-taught web and mobile developer.
-- 💻 Currently looking for a job.
 - 📫 Contact me at [my email address](mailto:pedro_eisman@outlook.com)
 
 Hi, my name is Pedro and I'm from Madrid (Spain).
-I'm a former video-editor that went into the path of programming. Everything I learned is from online resources, creating stuff and looking at other people's repos.
+I'm a former video-editor that went into the path of programming. Everything I learned is from online resources, creating new things and getting inspiration from other people's projects.
 I like building new things from scratch and also fixing and improving existing projects.
 
 <br>
@@ -26,13 +25,6 @@ Some of the technologies I've used:
 [![Firebase](https://img.shields.io/badge/Firebase-ffb200?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)](#)
-
-### Game dev
-[![C#](https://img.shields.io/badge/C%23-5d01c6?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)](#)
-[![Unity](https://img.shields.io/badge/Unity-161616?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](#)
-[![GDScript](https://img.shields.io/badge/GDScript-016ebc?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)](#)
-[![Lua](https://img.shields.io/badge/Lua-016ebc?style=for-the-badge&logo=lua&logoColor=white&labelColor=101010)](#)
 
 <br>
 
