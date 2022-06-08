@@ -12,7 +12,9 @@ I like building new things from scratch and also fixing and improving existing p
 [![HTML](https://img.shields.io/badge/HTML-e48144?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![CSS](https://img.shields.io/badge/CSS-016ebc?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-2557cc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)](#)
 [![React](https://img.shields.io/badge/React-04b2dd?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
+[![Redux](https://img.shields.io/badge/Redux-d267f0?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)](#)
 [![Dart](https://img.shields.io/badge/Dart-0083ff?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-00b2ff?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)](#)
 
