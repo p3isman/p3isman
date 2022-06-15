@@ -1,12 +1,9 @@
 ## Welcome to my profile 👋🏻
-I'm a:
-- 📖 Self-taught web and mobile developer.
-- 📫 Contact me at [my email address](mailto:pedro_eisman@outlook.com)
-
 Hi, my name is Pedro and I'm from Madrid (Spain).
 I'm a former video-editor that went into the path of programming. Everything I learned is from online resources, creating new things and getting inspiration from other people's projects.
 I like building new things from scratch and also fixing and improving existing projects.
 
+- 📫 Contact me at [my email address](mailto:pedro_eisman@outlook.com)
 
 ### Front-end
 [![HTML](https://img.shields.io/badge/HTML-e48144?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
